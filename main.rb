@@ -1,4 +1,4 @@
-def caio2
+def caio1
 	puts "hello"
 	puts "caio"
 end
